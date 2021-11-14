@@ -13,7 +13,7 @@ opt:
   models:
     blender_1Bdistill:
       model: transformer/generator
-      model_file: zoo:blender/blender_1Bdistill/model
+      model_file: zoo:tutorial_transformer_generator/model
       interactive_mode: True
       no_cuda: True
 additional_args:
