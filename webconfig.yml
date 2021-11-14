@@ -11,7 +11,7 @@ max_workers: 30
 opt:
   debug: True
   models:
-    blender_90M:
+    blender_1Bdistill:
       model: transformer/generator
       model_file: zoo:blender/blender_1Bdistill/model
       interactive_mode: True

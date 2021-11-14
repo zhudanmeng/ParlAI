@@ -31,7 +31,7 @@ class WebChatbotTaskWorld(World):
     """
 
     MAX_AGENTS = 1
-    MODEL_KEY = 'blenderbot2_3B'
+    MODEL_KEY = 'blender_1Bdistill'
 
     def __init__(self, opt, agent, bot):
         self.agent = agent
